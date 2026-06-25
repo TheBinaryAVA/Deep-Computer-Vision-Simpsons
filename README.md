@@ -39,6 +39,5 @@ This repository showcases the practical integration of traditional computer visi
 ### 1. Environment Setup
 Clone the repository and install the required dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/simpsons-opencv-classifier.git](https://github.com/YOUR_USERNAME/simpsons-opencv-classifier.git)
 cd simpsons-opencv-classifier
 pip install -r requirements.txt
